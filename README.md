@@ -12,5 +12,7 @@ Nous vous donnons le GitHub qui contient aussi tout les documents pour l'élabor
 
 - Documents : [ChildGuard-DOCUMENTS](https://github.com/Janssen76140/childguard-samajame-Doc).
 
+- Trello : [Trello - SAMAJAME](https://trello.com/b/nrPJT7Q2/samajame).
+
 ## License
 [NFactory School](https://nfactory.school/)
